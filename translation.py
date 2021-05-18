@@ -5,7 +5,7 @@ class Translation(object):
 
       START = """Hello {0}
 
-I am a converter clone of [Convert Ns Bot](https://telegram.dog/convert_Ns_bot) by {1}
+I am a converter clone of [Convert Ns Bot](http://t.me/NET_CoverterBot) by {1}
 
 I can convert file to video or video to file with custom thumbnail support.
 """
@@ -23,24 +23,24 @@ I can convert file to video or video to file with custom thumbnail support.
 
 4. Reply to file /converttovideo for converting into video.
 
-**SUPPORT GROUP:** [NS Bot Supporters](https://telegram.dog/Ns_Bot_supporters)
+**SUPPORT GROUP:** [NS Bot Supporters](https://t.me/NET_HACKER_BOTs_chat)
 """
 
 
 #Please don't change this about command 🙏
 
       ABOUT = """
-**📝 Language:** Python 3
+**Language:** Python 3
 
-**🧰 Framework:** Pyrogram
+** Framework:** Pyrogram
 
-**👨‍💻 Developer:** [Anonymous](https://t.me/Ns_AnoNymouS)
+** Developer:** [Net hacker bot admin Team](https://t.me/NET_HACKER_BOTs_chat)
 
-**📮 Channel:** [NS BOT UPDATES](https://t.me/Ns_bot_updates)
+** Channel:** [BOT UPDATES](https://t.me/Network_hacker_bots)
 
-**👥 Group:** [NS BOT SUPPOTERS](https://t.me/Ns_Bot_supporters)
+** Group:** [BOT SUPPOTERS](https://t.me/NET_HACKER_BOTs_chat)
 
-**💻 Source Code:**[Press Me](https://github.com/Ns-AnoNymouS/TG-CONVERT-BOT)
+** Source Code:**[Press Me](https://github.com/supunpriyashanka/TG-CONVERT-BOT)
 
 """
 
@@ -93,10 +93,10 @@ ETA 🕰: {4}
 
 
       DOWNLOAD_START = "Trying to Download 📥"
-      DOWNLOAD_COMPLETE = "✅ Media Downloaded successfully\nPreparing for upload"
-      UPLOAD_START = "Trying to Upload 📤"
+      DOWNLOAD_COMPLETE = " Media Downloaded successfully\nPreparing for upload"
+      UPLOAD_START = "Trying to Upload "
       UPLOAD_COMPLETE = "THANKS FOR USING ME"
-      SAVED_CUSTOM_THUMB_NAIL = "✅ Saved Thumbnail Successfully. This will be deleted in 24hrs"
-      BANNED_TEXT = "YOU ARE BANNED. SO YOUR ARE NOT ABLE TO USE ME 🐒"
-      REPLY_TEXT = "👩‍✈️ Reply to the media which you need to convert"
-      DEL_ETED_CUSTOM_THUMB_NAIL = "Thumbnail Deleted Successfully ✅"
+      SAVED_CUSTOM_THUMB_NAIL = " Saved Thumbnail Successfully. This will be deleted in 24hrs"
+      BANNED_TEXT = "YOU ARE BANNED. SO YOUR ARE NOT ABLE TO USE ME"
+      REPLY_TEXT = "Reply to the media which you need to convert"
+      DEL_ETED_CUSTOM_THUMB_NAIL = "Thumbnail Deleted Successfully"
