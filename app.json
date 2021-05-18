@@ -14,10 +14,10 @@
     "remote",
     "uploader"
   ],
-  "logo": "https://telegra.ph/file/7f3b556164324610e21a6.jpg",
-  "success_url": "https://telegram.dog/convert_Ns_bot",
-  "website": "https://github.com/Ns-AnoNymouS/TG-CONVERT-BOT",
-  "repository": "https://github.com/Ns-AnoNymouS/TG-CONVERT-BOT",
+  "logo": "https://telegra.ph/file/cef6c1269d3d37db453eb.jpg",
+  "success_url": "http://t.me/NET_CoverterBot",
+  "website": "https://github.com/supunpriyashanka/TG-CONVERT-BOT",
+  "repository": "https://github.com/supunpriyashanka/TG-CONVERT-BOT",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -28,8 +28,8 @@
       "value": ""
     },
     "USER_NAME": {
-      "description": "Your name like @NS_AnoNymouS",
-      "value": "@NS_AnoNymouS"
+      "description": "Your name like @Supun_priyashanka",
+      "value": ""
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
@@ -41,7 +41,7 @@
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
-      "value": "1337144652"
+      "value": "1337687161"
     },
     "BANNED_USERS": {
       "description": "Banned Unwanted members..",
