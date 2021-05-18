@@ -9,8 +9,8 @@ from pyrogram import Client, Filters, InlineKeyboardButton, InlineKeyboardMarkup
 from translation import Translation
 from Tools.Download import download
 
-my_father = "https://t.me/{}".format(Config.USER_NAME[1:])
-support = "https://telegram.dog/Ns_Bot_supporters"
+my_father = "https://t.me/NET_HACKER_BOTs_chat".format(Config.USER_NAME[1:])
+support = "https://t.me/Network_hacker_bots"
 @Client.on_message(Filters.command(["start"]))
 async def start(c, m):
 
